@@ -7,7 +7,9 @@ function printString(myString) {
       return true;
   }
 }
-
-function reverseString(myString) {
-    
-}
+// 
+// function reverseString(myString) {
+//   if (myString.length > 1) {
+//     let mySubString = myString.substring(-1,)
+//   }
+// }
